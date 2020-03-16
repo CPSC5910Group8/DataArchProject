@@ -12,5 +12,7 @@ Here is what included:
 3. Tableau Worksheet.pdf
 4. Database.sql
 
+You can access to our Tableau Public site here: https://public.tableau.com/views/try1_15840629867050/Dashboard1?:display_count=y&:origin=viz_share_link
+
 Thanks!
 
